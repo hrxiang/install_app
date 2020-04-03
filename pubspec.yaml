@@ -1,8 +1,8 @@
 name: install_app
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: hrxiang<hrxiang491064739@gmail.com>
+homepage: https://github.com/hrxiang/install_app
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
